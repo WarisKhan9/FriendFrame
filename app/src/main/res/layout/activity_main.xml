@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@drawable/bg21"
+    tools:context="com.example.friendsframe.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="440dp"
+        android:fontFamily="@font/aclonica"
+        android:text="f"
+        android:textAlignment="center"
+        android:textColor="#6EACA4"
+        android:textSize="100dp"
+        android:textStyle="bold"
+
+        >
+
+    </TextView>
+
+    <TextView
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="390dp"
+        android:fontFamily="@font/aclonica"
+        android:text="riendsrame"
+        android:textColor="@color/white"
+        android:textSize="40dp"
+        android:textStyle="bold"
+
+        >
+
+    </TextView>
+
+</LinearLayout>
+
+

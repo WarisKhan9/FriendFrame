@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "970705097412",
+    "project_id": "friendsframe9",
+    "storage_bucket": "friendsframe9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970705097412:android:2ce5d5343f3bd853f1ef91",
+        "android_client_info": {
+          "package_name": "com.example.friendsframe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbs4qMO949nDHQAWUlW1-Pzaz1ALazYHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
