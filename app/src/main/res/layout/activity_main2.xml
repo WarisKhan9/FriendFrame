@@ -46,26 +46,13 @@
                 android:textSize="30dp"
                 android:textStyle="bold"
                 android:layout_margin="10dp"
-                android:backgroundTint="@color/black"
+                android:backgroundTint="@color/black">
+
+
+            </Button>
         </LinearLayout>
-
-
-
-
-
-
     </androidx.cardview.widget.CardView>
-
-
-
-
-
-
-
-
-
-
- </ScrollView>
+</ScrollView>
 
 
 

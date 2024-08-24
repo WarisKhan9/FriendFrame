@@ -10,9 +10,6 @@ import com.google.firebase.storage.UploadTask
 
 class MainActivity2 : AppCompatActivity() {
 
-    var uploadImage = ImageView;
-    final private Fire
-
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -23,7 +20,5 @@ class MainActivity2 : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
-
-        uploadImage = findViewById<ImageView>(R.id.uploadImage)
     }
 }
